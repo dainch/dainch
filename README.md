@@ -1,127 +1,49 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm a Senior Structural Engineer 📐 & Tech Founder</div>  
-  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Driven+by+logic%2C+automated+by+code.;Welcome+to+my+digital+workshop." alt="Typing SVG" />
 
-- 🔭 I’m currently working on **Vertical Web Tools** (e.g., Road/Railway section calculators) and **AI Automation Workflows**.  
-  
+# 📐 Senior Structural Engineer & Tech Founder 🚀
 
-- 🌱 I’m currently learning Advanced LLM Deployment (32B+ Local Models) and customized Web Development.  
-  
+专注于 AI 自动化、独立工具开发与系统极致优化
 
-- ❓ Ask me about anything related to Structural Design, Python Automation, or Obsidian PKM Architecture (PARA/MOC).  
-  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dainch)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@qingkexiyu)
+![WeChat](https://img.shields.io/badge/WeChat-YSN__GEO-%2307C160.svg?style=for-the-badge&logo=wechat&logoColor=white)
 
-- ⚡ Fun fact: Driven by logic, automated by code.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Engineering & Core  
-<div align="center">  
-<!-- 核心工程与设计逻辑 -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" />
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+### 🔭 What I'm Doing
+- 🚀 **Vertical Web Tools:** Building niche calculation sites (e.g., road/railway section elevation calculators).
+- 🤖 **AI Automation:** Crafting custom automation workflows via Python and Gemini API.
+- 🧠 **PKM Architect:** Structuring complex local data systems via Obsidian (PARA & MOC frameworks).
 
+---
 
-### Automation & Dev  
-<div align="center">  
-<!-- Python, JavaScript, Bash -->
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash/PowerShell" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+### 🛠️ Tech Stack & Digital Tools
 
-</td><td valign="top" width="33%">
+| Category | Badges |
+| :--- | :--- |
+| **Automation & Dev** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) |
+| **Productivity & OS** | ![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED.svg?style=flat-square&logo=obsidian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=windows-11&logoColor=white) |
+| **Engineering Core** | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) |
 
-
-
-### Productivity & Environment  
-<div align="center">  
-<!-- 生产力工具与系统环境 -->
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-
-<a href="https://github.com/dainch" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
-</a>
-
-<a href="https://www.youtube.com/@qingkexiyu" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" style="margin: 5px;" />
-</a>
-
-<img src="https://img.shields.io/badge/WeChat-YSN__GEO-%2307C160.svg?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" style="margin: 5px;" />
-
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dainch&show_icons=true&count_private=true&hide_border=true&theme=radial" align="center" />
-</div>  
-
-<br/>  
+---
 
 ## 🌟 Daily GitHub Trending
-<!-- TRENDING-REGIONS:START -->
+---
 
-### 📈 Weekly Global Top 10 Repositories
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** (`JavaScript`) - ⭐ 19212
-  *Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.*
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** (`TypeScript`) - ⭐ 9193
-  *No description.*
-- **[shadcn/improve](https://github.com/shadcn/improve)** (`Unknown`) - ⭐ 4928
-  *Use your most capable model to audit your codebase and write plans for cheaper models to execute.*
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** (`Python`) - ⭐ 2141
-  *A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.*
-- **[tamnd/kage](https://github.com/tamnd/kage)** (`Go`) - ⭐ 1643
-  *Shadow any website for offline viewing, with the JavaScript stripped out*
-- **[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)** (`Shell`) - ⭐ 1313
-  *国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon*
-- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** (`Shell`) - ⭐ 1229
-  *Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.*
-- **[levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)** (`TypeScript`) - ⭐ 817
-  *No description.*
-- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** (`Unknown`) - ⭐ 697
-  *人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them*
-- **[loc567/loc567](https://github.com/loc567/loc567)** (`C`) - ⭐ 685
-  *loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com*
+## 📊 Github Stats
 
-<!-- TRENDING-REGIONS:END -->
-
-<br/>  
-
-## Profile Views  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dainch&&style=flat-square" align="center" />
-</div>  
-  
+<img src="https://github-readme-stats.vercel.app/api?username=dainch&show_icons=true&count_private=true&theme=tokyonight" alt="dainch Stats" style="margin-bottom: 10px;" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dainch&theme=tokyonight" alt="dainch Streak" />
+</div>
 
 <br/>  
 
-----
-<div align="center">Generated and Customized using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> & AI Workflow</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dainch&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="Views" />
+</div>
