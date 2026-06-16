@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dainch)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@qingkexiyu)
-![WeChat](https://img.shields.io/badge/WeChat-YSN__GEO-%2307C160.svg?style=for-the-badge&logo=wechat&logoColor=white)
+![WeChat](https://img.shields.io/badge/微信公众号-岩隧念%20(YSY__Dainch)-%2307C160.svg?style=for-the-badge&logo=wechat&logoColor=white)
 
 </div>
 
