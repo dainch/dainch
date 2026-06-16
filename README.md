@@ -86,6 +86,11 @@
 
 <br/>  
 
+## 🌟 Daily GitHub Trending
+<!-- TRENDING-REGIONS:START -->
+<!-- TRENDING-REGIONS:END -->
+
+<br/>  
 
 ## Profile Views  
 <div align="center">
