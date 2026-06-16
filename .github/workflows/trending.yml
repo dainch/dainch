@@ -1,0 +1,31 @@
+name: Fetch GitHub Trending
+
+on:
+  schedule:
+    # 每天北京时间早上 8:00 自动运行 (0 0 * * *)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许你随时手动点击运行
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Trending & Update README
+        uses: xgfone/github-trending-action@master
+        with:
+          # 筛选你想看的热门语言，比如 python, javascript。如果不设置，默认显示全网总榜
+          languages: 'python, javascript' 
+          # 对应你 README 里的锚点
+          start_comment: '<!-- TRENDING-REGIONS:START -->'
+          end_comment: '<!-- TRENDING-REGIONS:END -->'
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update daily github trending" || exit 0
+          git push
