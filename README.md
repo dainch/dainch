@@ -89,17 +89,27 @@
 ## 🌟 Daily GitHub Trending
 <!-- TRENDING-REGIONS:START -->
 
-### 📈 Weekly Hot Repositories
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** (JavaScript) - ⭐ 19132
+### 📈 Weekly Global Top 10 Repositories
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** (`JavaScript`) - ⭐ 19212
   *Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.*
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** (Python) - ⭐ 2137
+- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** (`TypeScript`) - ⭐ 9193
+  *No description.*
+- **[shadcn/improve](https://github.com/shadcn/improve)** (`Unknown`) - ⭐ 4928
+  *Use your most capable model to audit your codebase and write plans for cheaper models to execute.*
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** (`Python`) - ⭐ 2141
   *A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.*
-- **[joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)** (Python) - ⭐ 623
-  *Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide*
-- **[alchaincyf/fanbox](https://github.com/alchaincyf/fanbox)** (JavaScript) - ⭐ 596
-  *vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.*
-- **[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)** (Python) - ⭐ 537
-  *AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.*
+- **[tamnd/kage](https://github.com/tamnd/kage)** (`Go`) - ⭐ 1643
+  *Shadow any website for offline viewing, with the JavaScript stripped out*
+- **[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)** (`Shell`) - ⭐ 1313
+  *国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon*
+- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** (`Shell`) - ⭐ 1229
+  *Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.*
+- **[levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)** (`TypeScript`) - ⭐ 817
+  *No description.*
+- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** (`Unknown`) - ⭐ 697
+  *人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them*
+- **[loc567/loc567](https://github.com/loc567/loc567)** (`C`) - ⭐ 685
+  *loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com*
 
 <!-- TRENDING-REGIONS:END -->
 
