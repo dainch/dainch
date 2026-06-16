@@ -2,9 +2,8 @@ name: Fetch GitHub Trending
 
 on:
   schedule:
-    # 每天北京时间早上 8:00 自动运行 (0 0 * * *)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # 允许你随时手动点击运行
+    - cron: '0 0 * * *' # 每天自动运行
+  workflow_dispatch: # 允许手动运行
 
 jobs:
   update-readme:
@@ -13,14 +12,54 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch Trending & Update README
-        uses: xgfone/github-trending-action@master
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          # 筛选你想看的热门语言，比如 python, javascript。如果不设置，默认显示全网总榜
-          languages: 'python, javascript' 
-          # 对应你 README 里的锚点
-          start_comment: '<!-- TRENDING-REGIONS:START -->'
-          end_comment: '<!-- TRENDING-REGIONS:END -->'
+          python-node-version: '3.10'
+
+      - name: Fetch Top Repos and Update README
+        run: |
+          python -c '
+          import urllib.request
+          import json
+          import datetime
+
+          # 获取最近一周最火的 Python 和 JavaScript 项目
+          date_limit = (datetime.date.today() - datetime.timedelta(days=7)).isoformat()
+          url = f"https://api.github.com/search/repositories?q=created:>{date_limit}+language:python+language:javascript&sort=stars&order=desc&per_page=5"
+          
+          req = urllib.request.Request(url, headers={"User-Agent": "Python-urllib"})
+          with urllib.request.urlopen(req) as response:
+              data = json.loads(response.read().decode())
+
+          trending_text = "\n### 📈 Weekly Hot Repositories\n"
+          for repo in data.get("items", []):
+              name = repo["full_name"]
+              html_url = repo["html_url"]
+              desc = repo["description"] or "No description."
+              stars = repo["stargazers_count"]
+              lang = repo["language"]
+              trending_text += f"- **[{name}]({html_url})** ({lang}) - ⭐ {stars}\n  *{desc.strip()}*\n"
+
+          # 读取并重写 README
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          start_marker = "<!-- TRENDING-REGIONS:START -->"
+          end_marker = "<!-- TRENDING-REGIONS:END -->"
+
+          if start_marker in content and end_marker in content:
+              parts = content.split(start_marker)
+              before = parts[0] + start_marker
+              after = end_marker + parts[1].split(end_marker)[1]
+              new_content = before + "\n" + trending_text + "\n" + after
+              
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(new_content)
+              print("README updated successfully.")
+          else:
+              print("Markers not found in README.md")
+          '
 
       - name: Commit and Push Changes
         run: |
