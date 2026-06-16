@@ -64,9 +64,16 @@
 ## 📊 Github Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dainch&show_icons=true&count_private=true&theme=tokyonight" alt="dainch Stats" style="margin-bottom: 10px;" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dainch&theme=tokyonight" alt="dainch Streak" />
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top" style="padding-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=dainch&show_icons=true&count_private=true&theme=tokyonight&height=195" alt="dainch Stats" height="195" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dainch&theme=tokyonight&height=195" alt="dainch Streak" height="195" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>  
