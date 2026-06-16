@@ -32,6 +32,10 @@
 ---
 
 ## 🌟 Daily GitHub Trending
+<!-- TRENDING-REGIONS:START -->
+
+<!-- TRENDING-REGIONS:END -->
+
 ---
 
 ## 📊 Github Stats
