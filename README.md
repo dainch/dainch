@@ -36,26 +36,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** (`JavaScript`) - ⭐ 19835
+- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** (`JavaScript`) - ⭐ 26337
   *Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.*
-- **[XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** (`TypeScript`) - ⭐ 9229
-  *No description.*
-- **[shadcn/improve](https://github.com/shadcn/improve)** (`Unknown`) - ⭐ 4935
-  *Use your most capable model to audit your codebase and write plans for cheaper models to execute.*
-- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** (`Python`) - ⭐ 2180
+- **[omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)** (`Python`) - ⭐ 2923
   *A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.*
-- **[tamnd/kage](https://github.com/tamnd/kage)** (`Go`) - ⭐ 1661
+- **[tamnd/kage](https://github.com/tamnd/kage)** (`Go`) - ⭐ 1783
   *Shadow any website for offline viewing, with the JavaScript stripped out*
-- **[SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)** (`Shell`) - ⭐ 1317
-  *国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon*
-- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** (`Shell`) - ⭐ 1245
+- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** (`Shell`) - ⭐ 1357
   *Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.*
-- **[levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)** (`TypeScript`) - ⭐ 823
-  *No description.*
-- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** (`Unknown`) - ⭐ 705
-  *人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them*
-- **[loc567/loc567](https://github.com/loc567/loc567)** (`C`) - ⭐ 692
+- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** (`Swift`) - ⭐ 862
+  *一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。*
+- **[loc567/loc567](https://github.com/loc567/loc567)** (`C`) - ⭐ 792
   *loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com*
+- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** (`Unknown`) - ⭐ 732
+  *人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them*
+- **[joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)** (`Python`) - ⭐ 634
+  *Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide*
+- **[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)** (`Python`) - ⭐ 620
+  *AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.*
+- **[vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** (`Swift`) - ⭐ 518
+  *No description.*
 
 <!-- TRENDING-REGIONS:END -->
 
