@@ -36,26 +36,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** (`JavaScript`) - ⭐ 32545
-  *Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.*
-- **[tamnd/kage](https://github.com/tamnd/kage)** (`Go`) - ⭐ 1870
+- **[tamnd/kage](https://github.com/tamnd/kage)** (`Go`) - ⭐ 2017
   *Shadow any website for offline viewing, with the JavaScript stripped out*
-- **[lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)** (`Shell`) - ⭐ 1467
-  *Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.*
-- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** (`Swift`) - ⭐ 1024
-  *一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。*
-- **[vercel/eve](https://github.com/vercel/eve)** (`TypeScript`) - ⭐ 817
+- **[vercel/eve](https://github.com/vercel/eve)** (`TypeScript`) - ⭐ 1426
   *The Framework for Building Agents*
-- **[orange2ai/renwei-writing](https://github.com/orange2ai/renwei-writing)** (`Unknown`) - ⭐ 782
-  *人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them*
-- **[nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)** (`Python`) - ⭐ 728
-  *AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.*
-- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** (`Unknown`) - ⭐ 637
+- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** (`Swift`) - ⭐ 1076
+  *一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。*
+- **[Waishnav/devspace](https://github.com/Waishnav/devspace)** (`TypeScript`) - ⭐ 958
+  *Turn ChatGPT into Codex*
+- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** (`Unknown`) - ⭐ 674
   *别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.*
-- **[vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)** (`Swift`) - ⭐ 602
-  *Vorssaint macOS app*
-- **[SunJaycy/GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp)** (`C++`) - ⭐ 533
-  *No description.*
+- **[Plaer1/junction](https://github.com/Plaer1/junction)** (`TypeScript`) - ⭐ 510
+  *VS Code chat sidebar for local AI coding agents*
+- **[mrtooher/fable-mode](https://github.com/mrtooher/fable-mode)** (`Unknown`) - ⭐ 503
+  *A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.*
+- **[fivetaku/fablize](https://github.com/fivetaku/fablize)** (`Python`) - ⭐ 482
+  *A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.*
+- **[royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram)** (`JavaScript`) - ⭐ 468
+  *ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded*
+- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** (`TypeScript`) - ⭐ 403
+  *Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.*
 
 <!-- TRENDING-REGIONS:END -->
 
