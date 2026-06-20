@@ -36,26 +36,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[tamnd/kage](https://github.com/tamnd/kage)** (`Go`) - ⭐ 2017
+- **[tamnd/kage](https://github.com/tamnd/kage)** (`Go`) - ⭐ 2103
   *Shadow any website for offline viewing, with the JavaScript stripped out*
-- **[vercel/eve](https://github.com/vercel/eve)** (`TypeScript`) - ⭐ 1426
+- **[vercel/eve](https://github.com/vercel/eve)** (`TypeScript`) - ⭐ 1664
   *The Framework for Building Agents*
-- **[EEliberto/IPA-Download](https://github.com/EEliberto/IPA-Download)** (`Swift`) - ⭐ 1076
-  *一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。*
-- **[Waishnav/devspace](https://github.com/Waishnav/devspace)** (`TypeScript`) - ⭐ 958
+- **[Waishnav/devspace](https://github.com/Waishnav/devspace)** (`TypeScript`) - ⭐ 1443
   *Turn ChatGPT into Codex*
-- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** (`Unknown`) - ⭐ 674
+- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** (`Unknown`) - ⭐ 704
   *别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.*
-- **[Plaer1/junction](https://github.com/Plaer1/junction)** (`TypeScript`) - ⭐ 510
+- **[Plaer1/junction](https://github.com/Plaer1/junction)** (`TypeScript`) - ⭐ 513
   *VS Code chat sidebar for local AI coding agents*
-- **[mrtooher/fable-mode](https://github.com/mrtooher/fable-mode)** (`Unknown`) - ⭐ 503
-  *A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.*
-- **[fivetaku/fablize](https://github.com/fivetaku/fablize)** (`Python`) - ⭐ 482
+- **[fivetaku/fablize](https://github.com/fivetaku/fablize)** (`Python`) - ⭐ 505
   *A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.*
-- **[royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram)** (`JavaScript`) - ⭐ 468
+- **[royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram)** (`HTML`) - ⭐ 483
   *ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded*
-- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** (`TypeScript`) - ⭐ 403
+- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** (`TypeScript`) - ⭐ 454
   *Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.*
+- **[dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills)** (`Python`) - ⭐ 363
+  *司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents*
+- **[majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills)** (`Python`) - ⭐ 351
+  *Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.*
 
 <!-- TRENDING-REGIONS:END -->
 
