@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[vercel/eve](https://github.com/vercel/eve)** (`TypeScript`) - ⭐ 1886
+- **[vercel/eve](https://github.com/vercel/eve)** (`TypeScript`) - ⭐ 2116
   *The Framework for Building Agents*
-- **[alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)** (`Unknown`) - ⭐ 718
-  *别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.*
-- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** (`JavaScript`) - ⭐ 566
-  *Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.*
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** (`Unknown`) - ⭐ 538
-  *The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.*
-- **[Plaer1/junction](https://github.com/Plaer1/junction)** (`TypeScript`) - ⭐ 516
-  *VS Code chat sidebar for local AI coding agents*
-- **[dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills)** (`Python`) - ⭐ 398
-  *司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents*
-- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** (`TypeScript`) - ⭐ 370
-  *Kubernetes in the browser.*
-- **[zhongerxin/cowart](https://github.com/zhongerxin/cowart)** (`JavaScript`) - ⭐ 366
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** (`JavaScript`) - ⭐ 1450
   *No description.*
-- **[boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image)** (`Python`) - ⭐ 362
+- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** (`JavaScript`) - ⭐ 639
+  *Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.*
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** (`Unknown`) - ⭐ 615
+  *The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.*
+- **[Plaer1/junction](https://github.com/Plaer1/junction)** (`TypeScript`) - ⭐ 518
+  *VS Code chat sidebar for local AI coding agents*
+- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** (`TypeScript`) - ⭐ 488
+  *Kubernetes in the browser.*
+- **[boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image)** (`Python`) - ⭐ 403
   *Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.*
-- **[MstKail/polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365)** (`Unknown`) - ⭐ 358
+- **[MstKail/polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365)** (`Unknown`) - ⭐ 381
   *polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot*
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** (`TypeScript`) - ⭐ 379
+  *Fast drop in replacement for `cn`*
+- **[ReulgeApmpetty0O/Back-End-Developer-Interview-Questions](https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions)** (`Unknown`) - ⭐ 366
+  *A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore*
 
 <!-- TRENDING-REGIONS:END -->
 
