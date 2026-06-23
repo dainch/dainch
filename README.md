@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[vercel/eve](https://github.com/vercel/eve)** (`TypeScript`) - ⭐ 2116
-  *The Framework for Building Agents*
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** (`JavaScript`) - ⭐ 1450
+- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** (`JavaScript`) - ⭐ 2074
   *No description.*
-- **[rebel0789/codexpro](https://github.com/rebel0789/codexpro)** (`JavaScript`) - ⭐ 639
-  *Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.*
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** (`Unknown`) - ⭐ 615
+- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** (`Python`) - ⭐ 706
+  *可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！*
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** (`Unknown`) - ⭐ 692
   *The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.*
-- **[Plaer1/junction](https://github.com/Plaer1/junction)** (`TypeScript`) - ⭐ 518
-  *VS Code chat sidebar for local AI coding agents*
-- **[ngrok/webernetes](https://github.com/ngrok/webernetes)** (`TypeScript`) - ⭐ 488
-  *Kubernetes in the browser.*
-- **[boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image)** (`Python`) - ⭐ 403
-  *Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.*
-- **[MstKail/polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365)** (`Unknown`) - ⭐ 381
-  *polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot*
-- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** (`TypeScript`) - ⭐ 379
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** (`TypeScript`) - ⭐ 676
   *Fast drop in replacement for `cn`*
-- **[ReulgeApmpetty0O/Back-End-Developer-Interview-Questions](https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions)** (`Unknown`) - ⭐ 366
-  *A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore*
+- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** (`Python`) - ⭐ 664
+  *Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.*
+- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** (`JavaScript`) - ⭐ 567
+  *No description.*
+- **[Plaer1/junction](https://github.com/Plaer1/junction)** (`TypeScript`) - ⭐ 526
+  *VS Code chat sidebar for local AI coding agents*
+- **[MstKail/polymarket-trading-bot-services-polyedge365](https://github.com/MstKail/polymarket-trading-bot-services-polyedge365)** (`Unknown`) - ⭐ 399
+  *polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot*
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** (`JavaScript`) - ⭐ 385
+  *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings*
+- **[nnecrkvenuOX/formcms](https://github.com/nnecrkvenuOX/formcms)** (`C#`) - ⭐ 383
+  *AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.*
 
 <!-- TRENDING-REGIONS:END -->
 
