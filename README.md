@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** (`Python`) - ⭐ 4101
-  *Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.*
-- **[zhongerxin/Cowart](https://github.com/zhongerxin/Cowart)** (`JavaScript`) - ⭐ 2424
-  *No description.*
-- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** (`Python`) - ⭐ 927
-  *可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！*
-- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** (`Unknown`) - ⭐ 867
-  *The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.*
-- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** (`TypeScript`) - ⭐ 799
-  *Fast drop in replacement for `cn`*
-- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** (`JavaScript`) - ⭐ 727
-  *No description.*
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** (`HTML`) - ⭐ 644
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** (`HTML`) - ⭐ 1540
   *Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）*
-- **[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)** (`Python`) - ⭐ 552
+- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** (`Python`) - ⭐ 996
+  *可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！*
+- **[Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)** (`Unknown`) - ⭐ 914
+  *The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.*
+- **[aidenybai/cnfast](https://github.com/aidenybai/cnfast)** (`TypeScript`) - ⭐ 887
+  *Fast drop in replacement for `cn`*
+- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** (`JavaScript`) - ⭐ 771
+  *No description.*
+- **[sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)** (`Python`) - ⭐ 677
   *Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.*
-- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** (`JavaScript`) - ⭐ 506
-  *A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings*
-- **[yo-WASSUP/Good-Badminton](https://github.com/yo-WASSUP/Good-Badminton)** (`Python`) - ⭐ 428
+- **[raiyanyahya/recall](https://github.com/raiyanyahya/recall)** (`Python`) - ⭐ 489
+  *Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.*
+- **[yo-WASSUP/Good-Badminton](https://github.com/yo-WASSUP/Good-Badminton)** (`Python`) - ⭐ 483
   *🏸  AI Badminton Hawk-Eye System*
+- **[overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)** (`Go`) - ⭐ 404
+  *Makes PDFs look scanned (CLI or in the browser via WASM)*
+- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** (`TypeScript`) - ⭐ 365
+  *"AgentSpace: Human + Agents. One Team. One Workspace"*
 
 <!-- TRENDING-REGIONS:END -->
 
