@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** (`HTML`) - ⭐ 2002
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** (`HTML`) - ⭐ 2155
   *Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）*
-- **[lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)** (`Python`) - ⭐ 1043
-  *可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！*
-- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** (`JavaScript`) - ⭐ 788
+- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** (`JavaScript`) - ⭐ 736
   *No description.*
-- **[yo-WASSUP/Good-Badminton](https://github.com/yo-WASSUP/Good-Badminton)** (`Python`) - ⭐ 523
-  *🏸  AI Badminton Hawk-Eye System*
-- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** (`Python`) - ⭐ 506
-  *Qwen-AgentWorld: Language World Models for General Agents*
-- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** (`C++`) - ⭐ 499
+- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** (`C++`) - ⭐ 628
   *Arma: Cold War Assault Remastered Source Code Repository.*
-- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** (`TypeScript`) - ⭐ 427
-  *"AgentSpace: Human + Agents. One Team. One Workspace"*
-- **[overflowy/make-look-scanned](https://github.com/overflowy/make-look-scanned)** (`Go`) - ⭐ 416
-  *Makes PDFs look scanned (CLI or in the browser via WASM)*
-- **[m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar)** (`Swift`) - ⭐ 328
-  *A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.*
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** (`JavaScript`) - ⭐ 328
+- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** (`Python`) - ⭐ 569
+  *Qwen-AgentWorld: Language World Models for General Agents*
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** (`JavaScript`) - ⭐ 481
   *修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位*
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** (`Unknown`) - ⭐ 473
+  *A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.*
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** (`TypeScript`) - ⭐ 471
+  *Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.*
+- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** (`TypeScript`) - ⭐ 456
+  *"AgentSpace: Human + Agents. One Team. One Workspace"*
+- **[m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar)** (`Swift`) - ⭐ 361
+  *A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.*
+- **[Th0rgal/open_oura](https://github.com/Th0rgal/open_oura)** (`Rust`) - ⭐ 342
+  *A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.*
 
 <!-- TRENDING-REGIONS:END -->
 
