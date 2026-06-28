@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** (`HTML`) - ⭐ 2155
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** (`HTML`) - ⭐ 2220
   *Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）*
-- **[kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe)** (`JavaScript`) - ⭐ 736
-  *No description.*
-- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** (`C++`) - ⭐ 628
-  *Arma: Cold War Assault Remastered Source Code Repository.*
-- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** (`Python`) - ⭐ 569
-  *Qwen-AgentWorld: Language World Models for General Agents*
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** (`JavaScript`) - ⭐ 481
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** (`Python`) - ⭐ 1455
+  *DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms*
+- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** (`Python`) - ⭐ 1293
+  *A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.*
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** (`JavaScript`) - ⭐ 673
   *修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位*
-- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** (`Unknown`) - ⭐ 473
-  *A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.*
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** (`TypeScript`) - ⭐ 471
+- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** (`C++`) - ⭐ 664
+  *Arma: Cold War Assault Remastered Source Code Repository.*
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** (`TypeScript`) - ⭐ 645
   *Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.*
-- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** (`TypeScript`) - ⭐ 456
+- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** (`Python`) - ⭐ 599
+  *Qwen-AgentWorld: Language World Models for General Agents*
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** (`Unknown`) - ⭐ 537
+  *A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.*
+- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** (`TypeScript`) - ⭐ 484
   *"AgentSpace: Human + Agents. One Team. One Workspace"*
-- **[m1ckc3s/claude-status-bar](https://github.com/m1ckc3s/claude-status-bar)** (`Swift`) - ⭐ 361
-  *A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.*
-- **[Th0rgal/open_oura](https://github.com/Th0rgal/open_oura)** (`Rust`) - ⭐ 342
-  *A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.*
+- **[goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)** (`JavaScript`) - ⭐ 369
+  *这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型*
 
 <!-- TRENDING-REGIONS:END -->
 
