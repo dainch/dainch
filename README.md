@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** (`HTML`) - ⭐ 2220
-  *Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）*
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** (`Python`) - ⭐ 1455
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** (`Python`) - ⭐ 2456
   *DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms*
-- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** (`Python`) - ⭐ 1293
+- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** (`Python`) - ⭐ 2348
   *A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.*
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** (`JavaScript`) - ⭐ 673
+- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** (`HTML`) - ⭐ 2297
+  *Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）*
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** (`JavaScript`) - ⭐ 1170
   *修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位*
-- **[BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)** (`C++`) - ⭐ 664
-  *Arma: Cold War Assault Remastered Source Code Repository.*
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** (`TypeScript`) - ⭐ 645
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** (`TypeScript`) - ⭐ 702
   *Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.*
-- **[QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)** (`Python`) - ⭐ 599
-  *Qwen-AgentWorld: Language World Models for General Agents*
-- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** (`Unknown`) - ⭐ 537
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** (`Unknown`) - ⭐ 566
   *A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.*
-- **[HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace)** (`TypeScript`) - ⭐ 484
-  *"AgentSpace: Human + Agents. One Team. One Workspace"*
-- **[goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)** (`JavaScript`) - ⭐ 369
+- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** (`TypeScript`) - ⭐ 497
+  *An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata*
+- **[goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)** (`JavaScript`) - ⭐ 382
   *这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型*
+- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** (`Python`) - ⭐ 369
+  *Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.*
+- **[playPlumtown/Plumtown](https://github.com/playPlumtown/Plumtown)** (`JavaScript`) - ⭐ 358
+  *The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.*
 
 <!-- TRENDING-REGIONS:END -->
 
