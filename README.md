@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** (`Python`) - ⭐ 2456
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** (`Python`) - ⭐ 4079
   *DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms*
-- **[bikini/exploitarium](https://github.com/bikini/exploitarium)** (`Python`) - ⭐ 2348
-  *A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.*
-- **[bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)** (`HTML`) - ⭐ 2297
-  *Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）*
-- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** (`JavaScript`) - ⭐ 1170
+- **[Yu9191/wloc](https://github.com/Yu9191/wloc)** (`JavaScript`) - ⭐ 1551
   *修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位*
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** (`TypeScript`) - ⭐ 702
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** (`Unknown`) - ⭐ 981
+  *Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering*
+- **[baairon/torlink](https://github.com/baairon/torlink)** (`TypeScript`) - ⭐ 730
+  *A sleek, zero-setup torrent finder and downloader that lives right in your terminal.*
+- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** (`TypeScript`) - ⭐ 715
   *Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.*
-- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** (`Unknown`) - ⭐ 566
+- **[benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)** (`Unknown`) - ⭐ 591
   *A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.*
-- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** (`TypeScript`) - ⭐ 497
+- **[AlexandrosGounis/pdfx](https://github.com/AlexandrosGounis/pdfx)** (`TypeScript`) - ⭐ 572
   *An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata*
-- **[goehou/tabbit-toy](https://github.com/goehou/tabbit-toy)** (`JavaScript`) - ⭐ 382
-  *这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型*
-- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** (`Python`) - ⭐ 369
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** (`Python`) - ⭐ 554
+  *No description.*
+- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** (`Python`) - ⭐ 456
   *Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.*
-- **[playPlumtown/Plumtown](https://github.com/playPlumtown/Plumtown)** (`JavaScript`) - ⭐ 358
-  *The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.*
+- **[CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)** (`TypeScript`) - ⭐ 413
+  *OpenTag*
 
 <!-- TRENDING-REGIONS:END -->
 
