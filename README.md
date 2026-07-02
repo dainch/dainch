@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** (`Python`) - ⭐ 5394
+- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** (`Python`) - ⭐ 5776
   *DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms*
-- **[baairon/torlink](https://github.com/baairon/torlink)** (`TypeScript`) - ⭐ 1785
-  *A sleek, zero-setup torrent finder and downloader that lives right in your terminal.*
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** (`Unknown`) - ⭐ 1238
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** (`Unknown`) - ⭐ 1343
   *Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering*
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** (`Python`) - ⭐ 864
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** (`Python`) - ⭐ 1032
   *No description.*
-- **[winsznx/theeleven](https://github.com/winsznx/theeleven)** (`TypeScript`) - ⭐ 692
-  *Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.*
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** (`Python`) - ⭐ 619
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** (`JavaScript`) - ⭐ 782
+  *Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.*
+- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** (`Unknown`) - ⭐ 764
+  *A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.*
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** (`Python`) - ⭐ 723
   *Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump*
-- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** (`Python`) - ⭐ 485
-  *Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.*
-- **[CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)** (`TypeScript`) - ⭐ 468
+- **[aquace/CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)** (`Python`) - ⭐ 571
+  *CVE-2026-41940 authentication bypass vulnerability proof-of-concept*
+- **[CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)** (`TypeScript`) - ⭐ 494
   *OpenTag*
-- **[tdeverx/contained-app](https://github.com/tdeverx/contained-app)** (`Swift`) - ⭐ 436
-  *A native macOS app for Apple's Container CLI*
-- **[cclank/lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram)** (`Python`) - ⭐ 388
-  *Premium hand-drawn animated architecture diagram Codex skill*
+- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** (`Python`) - ⭐ 492
+  *Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.*
+- **[diinki/linux-antiquity](https://github.com/diinki/linux-antiquity)** (`QML`) - ⭐ 445
+  *A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.*
 
 <!-- TRENDING-REGIONS:END -->
 
