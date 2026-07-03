@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)** (`Python`) - ⭐ 5776
-  *DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms*
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** (`Unknown`) - ⭐ 1343
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** (`Unknown`) - ⭐ 1441
   *Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering*
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** (`Python`) - ⭐ 1032
-  *No description.*
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** (`JavaScript`) - ⭐ 782
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** (`JavaScript`) - ⭐ 1141
   *Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.*
-- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** (`Unknown`) - ⭐ 764
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** (`Python`) - ⭐ 1121
+  *No description.*
+- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** (`Unknown`) - ⭐ 900
   *A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.*
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** (`Python`) - ⭐ 723
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** (`Python`) - ⭐ 755
   *Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump*
-- **[aquace/CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)** (`Python`) - ⭐ 571
+- **[aquace/CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)** (`Python`) - ⭐ 572
   *CVE-2026-41940 authentication bypass vulnerability proof-of-concept*
-- **[CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)** (`TypeScript`) - ⭐ 494
-  *OpenTag*
-- **[Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)** (`Python`) - ⭐ 492
-  *Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.*
-- **[diinki/linux-antiquity](https://github.com/diinki/linux-antiquity)** (`QML`) - ⭐ 445
+- **[diinki/linux-antiquity](https://github.com/diinki/linux-antiquity)** (`QML`) - ⭐ 504
   *A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.*
+- **[wlzh/dji-4g-vohive-mac](https://github.com/wlzh/dji-4g-vohive-mac)** (`Unknown`) - ⭐ 406
+  *在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤*
+- **[Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)** (`Python`) - ⭐ 401
+  *Codex CLI instruction-file installer for local configuration*
+- **[downclash/clash](https://github.com/downclash/clash)** (`JavaScript`) - ⭐ 344
+  *No description.*
 
 <!-- TRENDING-REGIONS:END -->
 
