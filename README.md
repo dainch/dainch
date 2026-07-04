@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** (`Unknown`) - ⭐ 1441
+- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** (`Unknown`) - ⭐ 1514
   *Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering*
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** (`JavaScript`) - ⭐ 1141
+- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** (`Python`) - ⭐ 1303
+  *No description.*
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** (`JavaScript`) - ⭐ 1264
   *Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.*
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** (`Python`) - ⭐ 1121
-  *No description.*
-- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** (`Unknown`) - ⭐ 900
+- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** (`Unknown`) - ⭐ 805
   *A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.*
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** (`Python`) - ⭐ 755
+- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** (`Python`) - ⭐ 551
+  *Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.*
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** (`Python`) - ⭐ 520
   *Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump*
-- **[aquace/CVE-2026-41940-PoC](https://github.com/aquace/CVE-2026-41940-PoC)** (`Python`) - ⭐ 572
-  *CVE-2026-41940 authentication bypass vulnerability proof-of-concept*
-- **[diinki/linux-antiquity](https://github.com/diinki/linux-antiquity)** (`QML`) - ⭐ 504
-  *A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology.*
-- **[wlzh/dji-4g-vohive-mac](https://github.com/wlzh/dji-4g-vohive-mac)** (`Unknown`) - ⭐ 406
-  *在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤*
-- **[Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)** (`Python`) - ⭐ 401
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** (`Unknown`) - ⭐ 493
+  *小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架*
+- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** (`Swift`) - ⭐ 452
+  *Native iPhone app for your Hermes agent*
+- **[Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)** (`Python`) - ⭐ 411
   *Codex CLI instruction-file installer for local configuration*
-- **[downclash/clash](https://github.com/downclash/clash)** (`JavaScript`) - ⭐ 344
-  *No description.*
+- **[spiritov/ds.css](https://github.com/spiritov/ds.css)** (`CSS`) - ⭐ 383
+  *A css framework recreating the DS / DS Lite's UI*
 
 <!-- TRENDING-REGIONS:END -->
 
