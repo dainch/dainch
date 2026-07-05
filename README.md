@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals)** (`Unknown`) - ⭐ 1514
-  *Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering*
-- **[yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5)** (`Python`) - ⭐ 1303
-  *No description.*
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** (`JavaScript`) - ⭐ 1264
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** (`JavaScript`) - ⭐ 1290
   *Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.*
-- **[Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)** (`Unknown`) - ⭐ 805
-  *A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.*
-- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** (`Python`) - ⭐ 551
+- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** (`Shell`) - ⭐ 773
+  *Everything I know about running LLMs locally*
+- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** (`Python`) - ⭐ 759
   *Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.*
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** (`Python`) - ⭐ 520
-  *Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump*
-- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** (`Unknown`) - ⭐ 493
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** (`Unknown`) - ⭐ 661
   *小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架*
-- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** (`Swift`) - ⭐ 452
+- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** (`Python`) - ⭐ 596
+  *GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.*
+- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** (`Swift`) - ⭐ 558
   *Native iPhone app for your Hermes agent*
-- **[Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)** (`Python`) - ⭐ 411
-  *Codex CLI instruction-file installer for local configuration*
-- **[spiritov/ds.css](https://github.com/spiritov/ds.css)** (`CSS`) - ⭐ 383
+- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** (`Python`) - ⭐ 523
+  *Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump*
+- **[Kulaxyz/token-diet](https://github.com/Kulaxyz/token-diet)** (`Shell`) - ⭐ 473
+  *Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.*
+- **[spiritov/ds.css](https://github.com/spiritov/ds.css)** (`CSS`) - ⭐ 428
   *A css framework recreating the DS / DS Lite's UI*
+- **[asz798838958/FrciblyK12](https://github.com/asz798838958/FrciblyK12)** (`Python`) - ⭐ 419
+  *多线程全自动注册free 强上K12空间*
 
 <!-- TRENDING-REGIONS:END -->
 
