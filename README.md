@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** (`JavaScript`) - ⭐ 1290
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** (`TypeScript`) - ⭐ 1799
+  *autonomous red teaming platform; multi-agent offensive-security meta-harness*
+- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** (`JavaScript`) - ⭐ 1341
   *Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.*
-- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** (`Shell`) - ⭐ 773
-  *Everything I know about running LLMs locally*
-- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** (`Python`) - ⭐ 759
+- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** (`Python`) - ⭐ 1020
   *Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.*
-- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** (`Unknown`) - ⭐ 661
+- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** (`Shell`) - ⭐ 930
+  *Everything I know about running LLMs locally*
+- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** (`C++`) - ⭐ 837
+  *Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.*
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** (`Unknown`) - ⭐ 716
   *小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架*
-- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** (`Python`) - ⭐ 596
+- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** (`Python`) - ⭐ 680
   *GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.*
-- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** (`Swift`) - ⭐ 558
+- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** (`Swift`) - ⭐ 623
   *Native iPhone app for your Hermes agent*
-- **[TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava)** (`Python`) - ⭐ 523
-  *Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump*
-- **[Kulaxyz/token-diet](https://github.com/Kulaxyz/token-diet)** (`Shell`) - ⭐ 473
+- **[Kulaxyz/token-diet](https://github.com/Kulaxyz/token-diet)** (`Shell`) - ⭐ 589
   *Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.*
-- **[spiritov/ds.css](https://github.com/spiritov/ds.css)** (`CSS`) - ⭐ 428
-  *A css framework recreating the DS / DS Lite's UI*
-- **[asz798838958/FrciblyK12](https://github.com/asz798838958/FrciblyK12)** (`Python`) - ⭐ 419
-  *多线程全自动注册free 强上K12空间*
+- **[CalmNoteDepot/MECCHA-VISION-ULTIMATE](https://github.com/CalmNoteDepot/MECCHA-VISION-ULTIMATE)** (`Unknown`) - ⭐ 533
+  *🎯 Meccha Vision Ultimate — Ultimate Enhancement Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint · Speed Hack · No Recoil*
 
 <!-- TRENDING-REGIONS:END -->
 
