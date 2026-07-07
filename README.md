@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** (`TypeScript`) - ⭐ 1799
+- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** (`TypeScript`) - ⭐ 2709
   *autonomous red teaming platform; multi-agent offensive-security meta-harness*
-- **[mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer)** (`JavaScript`) - ⭐ 1341
-  *Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.*
-- **[HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)** (`Python`) - ⭐ 1020
-  *Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.*
-- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** (`Shell`) - ⭐ 930
-  *Everything I know about running LLMs locally*
-- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** (`C++`) - ⭐ 837
+- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** (`C++`) - ⭐ 1172
   *Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.*
-- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** (`Unknown`) - ⭐ 716
+- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** (`Shell`) - ⭐ 1083
+  *Everything I know about running LLMs locally*
+- **[synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)** (`TypeScript`) - ⭐ 830
+  *The open-source AI workbench for scientific research*
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** (`Unknown`) - ⭐ 741
   *小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架*
-- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** (`Python`) - ⭐ 680
+- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** (`Python`) - ⭐ 722
   *GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.*
-- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** (`Swift`) - ⭐ 623
+- **[uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex)** (`Swift`) - ⭐ 659
   *Native iPhone app for your Hermes agent*
-- **[Kulaxyz/token-diet](https://github.com/Kulaxyz/token-diet)** (`Shell`) - ⭐ 589
+- **[LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude)** (`TypeScript`) - ⭐ 614
+  *No description.*
+- **[Kulaxyz/token-diet](https://github.com/Kulaxyz/token-diet)** (`Shell`) - ⭐ 596
   *Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.*
-- **[CalmNoteDepot/MECCHA-VISION-ULTIMATE](https://github.com/CalmNoteDepot/MECCHA-VISION-ULTIMATE)** (`Unknown`) - ⭐ 533
-  *🎯 Meccha Vision Ultimate — Ultimate Enhancement Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint · Speed Hack · No Recoil*
+- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** (`Rust`) - ⭐ 588
+  *The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand*
 
 <!-- TRENDING-REGIONS:END -->
 
