@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** (`TypeScript`) - ⭐ 3351
-  *autonomous red teaming platform; multi-agent offensive-security meta-harness*
-- **[synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)** (`TypeScript`) - ⭐ 1421
-  *The open-source AI workbench for scientific research*
-- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** (`C++`) - ⭐ 1298
-  *Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.*
-- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** (`Shell`) - ⭐ 1192
-  *Everything I know about running LLMs locally*
-- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** (`Rust`) - ⭐ 1070
-  *The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand*
-- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** (`JavaScript`) - ⭐ 1055
-  *Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.*
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** (`Python`) - ⭐ 980
+- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** (`Python`) - ⭐ 2500
   *No description.*
-- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** (`Unknown`) - ⭐ 826
+- **[synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience)** (`TypeScript`) - ⭐ 1799
+  *The open-source AI workbench for scientific research*
+- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** (`JavaScript`) - ⭐ 1421
+  *Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.*
+- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** (`C++`) - ⭐ 1367
+  *Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.*
+- **[jamesob/local-llm](https://github.com/jamesob/local-llm)** (`Shell`) - ⭐ 1278
+  *Everything I know about running LLMs locally*
+- **[xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners)** (`Unknown`) - ⭐ 1240
   *小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架*
-- **[jmerelnyc/Talos](https://github.com/jmerelnyc/Talos)** (`Python`) - ⭐ 724
-  *GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.*
-- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** (`Rust`) - ⭐ 682
+- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** (`Rust`) - ⭐ 1210
+  *The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand*
+- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** (`Rust`) - ⭐ 741
   *Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal*
+- **[yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)** (`Rust`) - ⭐ 613
+  *Codex Switch & Instruct desktop manager*
+- **[wouterdebie/davit](https://github.com/wouterdebie/davit)** (`Swift`) - ⭐ 578
+  *A native macOS UI for Apple's platform*
 
 <!-- TRENDING-REGIONS:END -->
 
