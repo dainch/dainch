@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[x4gKing/X4G](https://github.com/x4gKing/X4G)** (`Python`) - ⭐ 3423
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** (`JavaScript`) - ⭐ 2168
   *No description.*
-- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** (`JavaScript`) - ⭐ 1579
+- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** (`JavaScript`) - ⭐ 1708
   *Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.*
-- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** (`JavaScript`) - ⭐ 1522
-  *No description.*
-- **[ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad)** (`C++`) - ⭐ 1394
-  *Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.*
-- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** (`Rust`) - ⭐ 1287
+- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** (`Rust`) - ⭐ 1343
   *The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand*
-- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** (`Rust`) - ⭐ 774
+- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** (`Rust`) - ⭐ 798
   *Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal*
-- **[wouterdebie/davit](https://github.com/wouterdebie/davit)** (`Swift`) - ⭐ 740
-  *A native macOS UI for Apple's platform*
-- **[yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)** (`Rust`) - ⭐ 706
-  *Codex Switch & Instruct desktop manager*
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** (`Python`) - ⭐ 610
+- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** (`Python`) - ⭐ 706
   *Infinite Worlds with Versatile Interactions*
-- **[simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)** (`TypeScript`) - ⭐ 595
+- **[simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)** (`TypeScript`) - ⭐ 686
   *Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。*
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** (`JavaScript`) - ⭐ 648
+  *A skill that turn any brand into a scrollable 3D world*
+- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** (`Python`) - ⭐ 646
+  *Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence*
+- **[Robbyant/lingbot-vision](https://github.com/Robbyant/lingbot-vision)** (`Python`) - ⭐ 617
+  *Self-supervised learning for spatial perception*
+- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** (`HTML`) - ⭐ 610
+  *No description.*
 
 <!-- TRENDING-REGIONS:END -->
 
