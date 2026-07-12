@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** (`JavaScript`) - ⭐ 2168
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** (`JavaScript`) - ⭐ 2443
   *No description.*
-- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** (`JavaScript`) - ⭐ 1708
+- **[Shpigford/knockoff](https://github.com/Shpigford/knockoff)** (`JavaScript`) - ⭐ 1776
   *Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.*
-- **[MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)** (`Rust`) - ⭐ 1343
-  *The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand*
-- **[514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)** (`Rust`) - ⭐ 798
-  *Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal*
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** (`Python`) - ⭐ 706
-  *Infinite Worlds with Versatile Interactions*
-- **[simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)** (`TypeScript`) - ⭐ 686
-  *Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。*
-- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** (`JavaScript`) - ⭐ 648
+- **[oso95/scroll-world](https://github.com/oso95/scroll-world)** (`JavaScript`) - ⭐ 907
   *A skill that turn any brand into a scrollable 3D world*
-- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** (`Python`) - ⭐ 646
-  *Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence*
-- **[Robbyant/lingbot-vision](https://github.com/Robbyant/lingbot-vision)** (`Python`) - ⭐ 617
-  *Self-supervised learning for spatial perception*
-- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** (`HTML`) - ⭐ 610
+- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** (`Python`) - ⭐ 802
+  *Infinite Worlds with Versatile Interactions*
+- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** (`HTML`) - ⭐ 801
   *No description.*
+- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** (`Python`) - ⭐ 683
+  *Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence*
+- **[Robbyant/lingbot-vision](https://github.com/Robbyant/lingbot-vision)** (`Python`) - ⭐ 638
+  *Self-supervised learning for spatial perception*
+- **[op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration)** (`Unknown`) - ⭐ 563
+  *归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。*
+- **[V4bel/Januscape](https://github.com/V4bel/Januscape)** (`C`) - ⭐ 472
+  *No description.*
+- **[xiaotianfotos/homerail](https://github.com/xiaotianfotos/homerail)** (`TypeScript`) - ⭐ 453
+  *Voice-first local agent orchestration runtime for auditable DAG workflows.*
 
 <!-- TRENDING-REGIONS:END -->
 
