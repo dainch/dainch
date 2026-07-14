@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** (`JavaScript`) - ⭐ 2739
+- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** (`JavaScript`) - ⭐ 2937
   *No description.*
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** (`Python`) - ⭐ 944
+- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** (`Python`) - ⭐ 1039
   *Infinite Worlds with Versatile Interactions*
-- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** (`HTML`) - ⭐ 890
+- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** (`HTML`) - ⭐ 961
   *No description.*
-- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** (`Python`) - ⭐ 717
-  *Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence*
-- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** (`Python`) - ⭐ 655
+- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** (`Python`) - ⭐ 868
   *Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.*
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** (`TypeScript`) - ⭐ 641
+- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** (`Python`) - ⭐ 763
+  *Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence*
+- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** (`Python`) - ⭐ 722
+  *A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。*
+- **[littledivy/mimic](https://github.com/littledivy/mimic)** (`Python`) - ⭐ 718
+  *Intercept any app, then call it from Python like a library*
+- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** (`TypeScript`) - ⭐ 696
   *Local-first, zero-trust agentic IDE for verifiable autonomous software development.*
-- **[op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration)** (`Unknown`) - ⭐ 597
-  *归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。*
-- **[xiaotianfotos/homerail](https://github.com/xiaotianfotos/homerail)** (`TypeScript`) - ⭐ 490
-  *Voice-first local agent orchestration runtime for auditable DAG workflows.*
-- **[Robbyant/lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2)** (`Python`) - ⭐ 479
-  *From Foundation to Application*
-- **[gostonx/uninstally](https://github.com/gostonx/uninstally)** (`Swift`) - ⭐ 424
-  *A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.*
+- **[William-Lu-stack/LuxyAI](https://github.com/William-Lu-stack/LuxyAI)** (`Python`) - ⭐ 557
+  *AgenticOps for Kubernetes and cloud infrastructure.*
+- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** (`Python`) - ⭐ 523
+  *A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。*
 
 <!-- TRENDING-REGIONS:END -->
 
