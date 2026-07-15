@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)** (`JavaScript`) - ⭐ 2937
-  *No description.*
-- **[Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2)** (`Python`) - ⭐ 1039
-  *Infinite Worlds with Versatile Interactions*
-- **[x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade)** (`HTML`) - ⭐ 961
-  *No description.*
-- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** (`Python`) - ⭐ 868
-  *Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.*
-- **[Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video)** (`Python`) - ⭐ 763
-  *Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence*
-- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** (`Python`) - ⭐ 722
+- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** (`Python`) - ⭐ 1033
   *A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。*
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** (`Python`) - ⭐ 718
+- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** (`Python`) - ⭐ 967
+  *Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.*
+- **[littledivy/mimic](https://github.com/littledivy/mimic)** (`Python`) - ⭐ 912
   *Intercept any app, then call it from Python like a library*
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** (`TypeScript`) - ⭐ 696
+- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** (`TypeScript`) - ⭐ 801
   *Local-first, zero-trust agentic IDE for verifiable autonomous software development.*
-- **[William-Lu-stack/LuxyAI](https://github.com/William-Lu-stack/LuxyAI)** (`Python`) - ⭐ 557
-  *AgenticOps for Kubernetes and cloud infrastructure.*
-- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** (`Python`) - ⭐ 523
+- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** (`Python`) - ⭐ 705
   *A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。*
+- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** (`Dockerfile`) - ⭐ 671
+  *No description.*
+- **[William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless)** (`Python`) - ⭐ 617
+  *AI SRE AgenticOps for Kubernetes and cloud infrastructure.*
+- **[Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill)** (`Python`) - ⭐ 608
+  *A Codex skill that finds evidence-backed potential first customers from recent public signals.*
+- **[cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)** (`Go`) - ⭐ 581
+  *A visualization tool that replays coding-agent sessions on a 3D map of your codebase.*
+- **[x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node)** (`Dockerfile`) - ⭐ 568
+  *No description.*
 
 <!-- TRENDING-REGIONS:END -->
 
