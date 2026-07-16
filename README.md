@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** (`Python`) - ⭐ 1033
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** (`Rust`) - ⭐ 4487
+  *SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.*
+- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** (`Python`) - ⭐ 1376
   *A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。*
-- **[vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin)** (`Python`) - ⭐ 967
-  *Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.*
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** (`Python`) - ⭐ 912
+- **[littledivy/mimic](https://github.com/littledivy/mimic)** (`Python`) - ⭐ 1026
   *Intercept any app, then call it from Python like a library*
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** (`TypeScript`) - ⭐ 801
-  *Local-first, zero-trust agentic IDE for verifiable autonomous software development.*
-- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** (`Python`) - ⭐ 705
+- **[AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide)** (`Python`) - ⭐ 824
   *A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。*
-- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** (`Dockerfile`) - ⭐ 671
+- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** (`TypeScript`) - ⭐ 812
+  *Local-first, zero-trust agentic IDE for verifiable autonomous software development.*
+- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** (`Dockerfile`) - ⭐ 775
   *No description.*
-- **[William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless)** (`Python`) - ⭐ 617
-  *AI SRE AgenticOps for Kubernetes and cloud infrastructure.*
-- **[Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill)** (`Python`) - ⭐ 608
+- **[Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill)** (`Python`) - ⭐ 712
   *A Codex skill that finds evidence-backed potential first customers from recent public signals.*
-- **[cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)** (`Go`) - ⭐ 581
-  *A visualization tool that replays coding-agent sessions on a 3D map of your codebase.*
-- **[x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node)** (`Dockerfile`) - ⭐ 568
+- **[pengchujin/jzsub](https://github.com/pengchujin/jzsub)** (`Python`) - ⭐ 680
+  *JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。*
+- **[x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node)** (`Dockerfile`) - ⭐ 666
   *No description.*
+- **[William-Lu-stack/Flawless](https://github.com/William-Lu-stack/Flawless)** (`Python`) - ⭐ 642
+  *AI SRE AgenticOps for Kubernetes and cloud infrastructure.*
 
 <!-- TRENDING-REGIONS:END -->
 
