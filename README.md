@@ -37,25 +37,25 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** (`Rust`) - ⭐ 12837
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** (`Rust`) - ⭐ 16687
   *SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.*
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** (`JavaScript`) - ⭐ 6110
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** (`JavaScript`) - ⭐ 8782
   *Codex Dream Skin*
-- **[MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)** (`Python`) - ⭐ 1708
-  *A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。*
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** (`Python`) - ⭐ 1108
-  *Intercept any app, then call it from Python like a library*
-- **[pixel-point/aval](https://github.com/pixel-point/aval)** (`TypeScript`) - ⭐ 1063
+- **[pixel-point/aval](https://github.com/pixel-point/aval)** (`TypeScript`) - ⭐ 1165
   *A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.*
-- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** (`Rust`) - ⭐ 939
+- **[littledivy/mimic](https://github.com/littledivy/mimic)** (`Python`) - ⭐ 1149
+  *Intercept any app, then call it from Python like a library*
+- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** (`Rust`) - ⭐ 1145
   *No description.*
-- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** (`Dockerfile`) - ⭐ 846
+- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** (`Dockerfile`) - ⭐ 914
   *No description.*
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** (`TypeScript`) - ⭐ 829
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** (`JavaScript`) - ⭐ 906
+  *Your clothes, extracted and organized with gpt-image.*
+- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** (`TypeScript`) - ⭐ 833
   *Local-first, zero-trust agentic IDE for verifiable autonomous software development.*
-- **[Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill)** (`Python`) - ⭐ 761
+- **[Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill)** (`Python`) - ⭐ 790
   *A Codex skill that finds evidence-backed potential first customers from recent public signals.*
-- **[x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node)** (`Dockerfile`) - ⭐ 728
+- **[x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node)** (`Dockerfile`) - ⭐ 777
   *No description.*
 
 <!-- TRENDING-REGIONS:END -->
