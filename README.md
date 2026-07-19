@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** (`Rust`) - ⭐ 16687
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** (`Rust`) - ⭐ 19020
   *SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.*
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** (`JavaScript`) - ⭐ 8782
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** (`JavaScript`) - ⭐ 9809
   *Codex Dream Skin*
-- **[pixel-point/aval](https://github.com/pixel-point/aval)** (`TypeScript`) - ⭐ 1165
+- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** (`Rust`) - ⭐ 1256
+  *No description.*
+- **[pixel-point/aval](https://github.com/pixel-point/aval)** (`TypeScript`) - ⭐ 1217
   *A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.*
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** (`Python`) - ⭐ 1149
+- **[littledivy/mimic](https://github.com/littledivy/mimic)** (`Python`) - ⭐ 1177
   *Intercept any app, then call it from Python like a library*
-- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** (`Rust`) - ⭐ 1145
-  *No description.*
-- **[x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)** (`Dockerfile`) - ⭐ 914
-  *No description.*
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** (`JavaScript`) - ⭐ 906
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** (`JavaScript`) - ⭐ 1060
   *Your clothes, extracted and organized with gpt-image.*
-- **[mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)** (`TypeScript`) - ⭐ 833
-  *Local-first, zero-trust agentic IDE for verifiable autonomous software development.*
-- **[Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill)** (`Python`) - ⭐ 790
-  *A Codex skill that finds evidence-backed potential first customers from recent public signals.*
-- **[x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node)** (`Dockerfile`) - ⭐ 777
-  *No description.*
+- **[oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme)** (`Python`) - ⭐ 825
+  *Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown*
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** (`Go`) - ⭐ 710
+  *Use LLMs to hide messages inside normal looking conversations*
+- **[KubeezMedia/kubeez-scroll-world-video](https://github.com/KubeezMedia/kubeez-scroll-world-video)** (`JavaScript`) - ⭐ 653
+  *Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video*
+- **[MatinSenPai/Aether-GUI](https://github.com/MatinSenPai/Aether-GUI)** (`TypeScript`) - ⭐ 597
+  *One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust*
 
 <!-- TRENDING-REGIONS:END -->
 
