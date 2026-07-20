@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** (`Rust`) - ⭐ 19020
+- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** (`Rust`) - ⭐ 20230
   *SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.*
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** (`JavaScript`) - ⭐ 9809
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** (`JavaScript`) - ⭐ 10502
   *Codex Dream Skin*
-- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** (`Rust`) - ⭐ 1256
+- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** (`Rust`) - ⭐ 1318
   *No description.*
-- **[pixel-point/aval](https://github.com/pixel-point/aval)** (`TypeScript`) - ⭐ 1217
-  *A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.*
-- **[littledivy/mimic](https://github.com/littledivy/mimic)** (`Python`) - ⭐ 1177
-  *Intercept any app, then call it from Python like a library*
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** (`JavaScript`) - ⭐ 1060
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** (`JavaScript`) - ⭐ 1162
   *Your clothes, extracted and organized with gpt-image.*
-- **[oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme)** (`Python`) - ⭐ 825
-  *Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown*
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** (`Go`) - ⭐ 710
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** (`Go`) - ⭐ 828
   *Use LLMs to hide messages inside normal looking conversations*
-- **[KubeezMedia/kubeez-scroll-world-video](https://github.com/KubeezMedia/kubeez-scroll-world-video)** (`JavaScript`) - ⭐ 653
-  *Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video*
-- **[MatinSenPai/Aether-GUI](https://github.com/MatinSenPai/Aether-GUI)** (`TypeScript`) - ⭐ 597
+- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** (`TypeScript`) - ⭐ 767
+  *yoink any video from your terminal. no shady ads.*
+- **[MatinSenPai/Aether-GUI](https://github.com/MatinSenPai/Aether-GUI)** (`TypeScript`) - ⭐ 628
   *One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust*
+- **[Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)** (`JavaScript`) - ⭐ 617
+  *Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.*
+- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** (`Dart`) - ⭐ 596
+  *V- Modal AI: Search anything anywhere SDK Flutter*
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** (`Python`) - ⭐ 589
+  *🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering*
 
 <!-- TRENDING-REGIONS:END -->
 
