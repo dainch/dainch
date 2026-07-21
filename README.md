@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[xai-org/grok-build](https://github.com/xai-org/grok-build)** (`Rust`) - ⭐ 20230
-  *SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.*
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** (`JavaScript`) - ⭐ 10502
+- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** (`JavaScript`) - ⭐ 11146
   *Codex Dream Skin*
-- **[CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)** (`Rust`) - ⭐ 1318
-  *No description.*
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** (`JavaScript`) - ⭐ 1162
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** (`JavaScript`) - ⭐ 1221
   *Your clothes, extracted and organized with gpt-image.*
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** (`Go`) - ⭐ 828
+- **[hoainho/img2threejs](https://github.com/hoainho/img2threejs)** (`Python`) - ⭐ 1082
+  *Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.*
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** (`Go`) - ⭐ 884
   *Use LLMs to hide messages inside normal looking conversations*
-- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** (`TypeScript`) - ⭐ 767
+- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** (`TypeScript`) - ⭐ 875
   *yoink any video from your terminal. no shady ads.*
-- **[MatinSenPai/Aether-GUI](https://github.com/MatinSenPai/Aether-GUI)** (`TypeScript`) - ⭐ 628
-  *One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust*
-- **[Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)** (`JavaScript`) - ⭐ 617
-  *Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.*
-- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** (`Dart`) - ⭐ 596
-  *V- Modal AI: Search anything anywhere SDK Flutter*
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** (`Python`) - ⭐ 589
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** (`Python`) - ⭐ 842
   *🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering*
+- **[Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)** (`JavaScript`) - ⭐ 663
+  *Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.*
+- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** (`Dart`) - ⭐ 623
+  *V- Modal AI: Search anything anywhere SDK Flutter*
+- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** (`Python`) - ⭐ 510
+  *Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.*
+- **[EthanXiang777/circuit-framework](https://github.com/EthanXiang777/circuit-framework)** (`Python`) - ⭐ 486
+  *Circuit Framework — multi-agent LLM trading research system*
 
 <!-- TRENDING-REGIONS:END -->
 
