@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)** (`JavaScript`) - ⭐ 11146
-  *Codex Dream Skin*
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** (`JavaScript`) - ⭐ 1221
-  *Your clothes, extracted and organized with gpt-image.*
-- **[hoainho/img2threejs](https://github.com/hoainho/img2threejs)** (`Python`) - ⭐ 1082
-  *Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.*
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** (`Go`) - ⭐ 884
-  *Use LLMs to hide messages inside normal looking conversations*
-- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** (`TypeScript`) - ⭐ 875
-  *yoink any video from your terminal. no shady ads.*
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** (`Python`) - ⭐ 842
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** (`Python`) - ⭐ 1683
   *🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering*
-- **[Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)** (`JavaScript`) - ⭐ 663
-  *Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.*
-- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** (`Dart`) - ⭐ 623
+- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** (`JavaScript`) - ⭐ 1288
+  *Your clothes, extracted and organized with gpt-image.*
+- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** (`TypeScript`) - ⭐ 968
+  *yoink any video from your terminal. no shady ads.*
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** (`Go`) - ⭐ 915
+  *Use LLMs to hide messages inside normal looking conversations*
+- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** (`Dart`) - ⭐ 780
   *V- Modal AI: Search anything anywhere SDK Flutter*
-- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** (`Python`) - ⭐ 510
+- **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** (`Solidity`) - ⭐ 739
+  *An arbitrage bot is a smart contract connected to an external automation script that controls its operation.*
+- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** (`Swift`) - ⭐ 639
+  *Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.*
+- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** (`Python`) - ⭐ 592
   *Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.*
-- **[EthanXiang777/circuit-framework](https://github.com/EthanXiang777/circuit-framework)** (`Python`) - ⭐ 486
+- **[EthanXiang777/circuit-framework](https://github.com/EthanXiang777/circuit-framework)** (`Python`) - ⭐ 487
   *Circuit Framework — multi-agent LLM trading research system*
+- **[smixs/pohuy](https://github.com/smixs/pohuy)** (`Unknown`) - ⭐ 469
+  *Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+*
 
 <!-- TRENDING-REGIONS:END -->
 
