@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** (`Python`) - ⭐ 1683
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** (`Python`) - ⭐ 2200
   *🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering*
-- **[tandpfun/wardrobe](https://github.com/tandpfun/wardrobe)** (`JavaScript`) - ⭐ 1288
-  *Your clothes, extracted and organized with gpt-image.*
-- **[pablostanley/yoinks](https://github.com/pablostanley/yoinks)** (`TypeScript`) - ⭐ 968
-  *yoink any video from your terminal. no shady ads.*
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** (`Go`) - ⭐ 915
+- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** (`Go`) - ⭐ 998
   *Use LLMs to hide messages inside normal looking conversations*
-- **[v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)** (`Dart`) - ⭐ 780
-  *V- Modal AI: Search anything anywhere SDK Flutter*
-- **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** (`Solidity`) - ⭐ 739
+- **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** (`Solidity`) - ⭐ 920
   *An arbitrage bot is a smart contract connected to an external automation script that controls its operation.*
-- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** (`Swift`) - ⭐ 639
+- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** (`Swift`) - ⭐ 766
   *Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.*
-- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** (`Python`) - ⭐ 592
+- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** (`TypeScript`) - ⭐ 646
+  *Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light*
+- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** (`Python`) - ⭐ 621
   *Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.*
-- **[EthanXiang777/circuit-framework](https://github.com/EthanXiang777/circuit-framework)** (`Python`) - ⭐ 487
-  *Circuit Framework — multi-agent LLM trading research system*
-- **[smixs/pohuy](https://github.com/smixs/pohuy)** (`Unknown`) - ⭐ 469
+- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** (`Python`) - ⭐ 540
+  *一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。*
+- **[smixs/pohuy](https://github.com/smixs/pohuy)** (`Unknown`) - ⭐ 538
   *Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+*
+- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** (`TypeScript`) - ⭐ 537
+  *AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template*
+- **[0xhype/hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)** (`TypeScript`) - ⭐ 503
+  *Get notified when big trades happen on Hyperliquid.*
 
 <!-- TRENDING-REGIONS:END -->
 
