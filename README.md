@@ -37,25 +37,25 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** (`Python`) - ⭐ 2200
+- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** (`Python`) - ⭐ 2279
   *🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering*
-- **[nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography)** (`Go`) - ⭐ 998
-  *Use LLMs to hide messages inside normal looking conversations*
-- **[MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot)** (`Solidity`) - ⭐ 920
-  *An arbitrage bot is a smart contract connected to an external automation script that controls its operation.*
-- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** (`Swift`) - ⭐ 766
-  *Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.*
-- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** (`TypeScript`) - ⭐ 646
-  *Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light*
-- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** (`Python`) - ⭐ 621
-  *Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.*
-- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** (`Python`) - ⭐ 540
-  *一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。*
-- **[smixs/pohuy](https://github.com/smixs/pohuy)** (`Unknown`) - ⭐ 538
-  *Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+*
-- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** (`TypeScript`) - ⭐ 537
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** (`Python`) - ⭐ 1553
+  *No description.*
+- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** (`TypeScript`) - ⭐ 982
   *AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template*
-- **[0xhype/hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)** (`TypeScript`) - ⭐ 503
+- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** (`TypeScript`) - ⭐ 839
+  *Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light*
+- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** (`Swift`) - ⭐ 821
+  *Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.*
+- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** (`Python`) - ⭐ 677
+  *一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。*
+- **[pireel/pireel](https://github.com/pireel/pireel)** (`TypeScript`) - ⭐ 662
+  *Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.*
+- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** (`Python`) - ⭐ 635
+  *Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.*
+- **[gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** (`JavaScript`) - ⭐ 568
+  *Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).*
+- **[0xhype/hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)** (`TypeScript`) - ⭐ 504
   *Get notified when big trades happen on Hyperliquid.*
 
 <!-- TRENDING-REGIONS:END -->
