@@ -37,26 +37,26 @@
 <!-- TRENDING-REGIONS:START -->
 
 ### 📈 Weekly Global Top 10 Repositories
-- **[lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)** (`Python`) - ⭐ 2279
-  *🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering*
-- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** (`Python`) - ⭐ 1553
+- **[andrewyng/openworker](https://github.com/andrewyng/openworker)** (`Python`) - ⭐ 3509
   *No description.*
-- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** (`TypeScript`) - ⭐ 982
+- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** (`TypeScript`) - ⭐ 1482
   *AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template*
-- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** (`TypeScript`) - ⭐ 839
+- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** (`TypeScript`) - ⭐ 936
   *Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light*
-- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** (`Swift`) - ⭐ 821
+- **[Blaizzy/nativ](https://github.com/Blaizzy/nativ)** (`Swift`) - ⭐ 863
   *Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.*
-- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** (`Python`) - ⭐ 677
+- **[powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)** (`Python`) - ⭐ 811
   *一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。*
-- **[pireel/pireel](https://github.com/pireel/pireel)** (`TypeScript`) - ⭐ 662
+- **[pireel/pireel](https://github.com/pireel/pireel)** (`TypeScript`) - ⭐ 714
   *Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.*
-- **[xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)** (`Python`) - ⭐ 635
-  *Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.*
-- **[gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** (`JavaScript`) - ⭐ 568
+- **[gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** (`JavaScript`) - ⭐ 609
   *Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).*
-- **[0xhype/hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)** (`TypeScript`) - ⭐ 504
+- **[CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge)** (`JavaScript`) - ⭐ 528
+  *A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.*
+- **[0xhype/hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)** (`TypeScript`) - ⭐ 509
   *Get notified when big trades happen on Hyperliquid.*
+- **[slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)** (`Python`) - ⭐ 444
+  *No description.*
 
 <!-- TRENDING-REGIONS:END -->
 
